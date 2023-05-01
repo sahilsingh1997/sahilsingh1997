@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahil Singh Palsaniya
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently working on beginner level data science projects
-- 💞️ I’m looking to collaborate on beginner friendly projects
+- 💞️ I’m looking for an internship or entry-level job in data science
 - 📫 You can reach me on my email: ssingh.cloud@gmail.com
 
 <!---
