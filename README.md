@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahil Singh
+- 👋 Hi, I’m Sahil Singh Palsaniya
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python and Stats
 - 💞️ I’m looking to collaborate on beginner friendly projects
